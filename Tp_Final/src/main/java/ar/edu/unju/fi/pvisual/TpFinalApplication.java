@@ -1,13 +1,13 @@
-package ar.edu.unju.fi;
+package ar.edu.unju.fi.pvisual;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TrabajoFinalGrupalApplication {
+public class TpFinalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TrabajoFinalGrupalApplication.class, args);
+		SpringApplication.run(TpFinalApplication.class, args);
 	}
 
 }
