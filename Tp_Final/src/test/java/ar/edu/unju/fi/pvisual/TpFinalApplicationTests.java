@@ -1,10 +1,10 @@
-package ar.edu.unju.fi;
+package ar.edu.unju.fi.pvisual;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TrabajoFinalGrupalApplicationTests {
+class TpFinalApplicationTests {
 
 	@Test
 	void contextLoads() {
